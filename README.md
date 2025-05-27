@@ -1,2 +1,1 @@
-sql_1st_project
-this is my sql 1st project databases with queries questions (solved)
+this is my sql project thats given data of queries,question,
