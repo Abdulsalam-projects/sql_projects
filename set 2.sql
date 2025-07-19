@@ -1,4 +1,4 @@
--/Q1: Find how much amount spent by each customer on artists? Write a query to return customer name, artist name and total spent /-
+--Q1: Find how much amount spent by each customer on artists? Write a query to return customer name, artist name and total spent--
 WITH popular_genre AS 
 (
     SELECT COUNT(invoice_line.quantity) AS purchases, customer.country, genre.name, genre.genre_id, 
