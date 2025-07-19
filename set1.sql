@@ -38,7 +38,7 @@ group by customer_id
 order by totalspending desc
 limit 1
 
--/script to find customer name! who is the best customer?/-
+--script to find customer name! who is the best customer?--
 
 select last_name,first_name
 from customer
