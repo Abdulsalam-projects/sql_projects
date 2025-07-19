@@ -1,4 +1,4 @@
--/Q1: Who is the senior most employee based on job title?/-
+--Q1: Who is the senior most employee based on job title?--
 
 select last_name,first_name,title
 from employee
