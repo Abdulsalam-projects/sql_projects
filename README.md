@@ -1,1 +1,1 @@
-this is my sql project thats given data of queries,question,
+#SQL PROJECTS BASICS TO ADVANCED COVER WITHIN REAL DATA TYPE AND THERE QUERIES ALSO COVERED 
